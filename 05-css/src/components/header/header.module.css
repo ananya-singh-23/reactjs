@@ -1,0 +1,30 @@
+.header{
+    background-color: #333;
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 2rem;
+}
+
+
+a{
+    background-color: bisque;
+    color: black;
+    border: 1.5px solid black;
+    border-radius: 0.25rem;
+    padding:7px;
+    padding-right: 13px;
+    padding-left: 13px;
+    text-decoration: none;
+}
+
+.btn{
+    background-color: rgb(203, 253, 183);
+    color: black;
+    border: 1.5px solid black;
+    border-radius: 0.25rem;
+    padding:7px;
+    padding-right: 13px;
+    padding-left: 13px;
+}
