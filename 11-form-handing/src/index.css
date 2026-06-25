@@ -1,0 +1,12 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+input,button{
+  padding: 7px;
+  margin :10px;
+  font-size: large;
+  gap: 30px;
+  border-radius: 0.3rem;
+}
